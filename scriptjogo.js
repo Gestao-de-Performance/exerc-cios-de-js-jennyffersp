@@ -26,7 +26,8 @@ function jogarParOuImpar() {
         console.log("Você perdeu!");
       }
 
-      rl.close();
+      rl.close(); 
     });
   });
 }
+jogarParOuImpar();
